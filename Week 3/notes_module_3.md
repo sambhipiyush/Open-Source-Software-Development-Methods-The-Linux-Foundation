@@ -190,6 +190,10 @@ by The Linux Foundation
 * Other providers are **GitLab**, **GitKraken** and **Launchpad**, that do similar things, though somewhat different, of course, than GitHub
 	<p align="center">
 	  <a href="javascript:void(0)" rel="noopener">
+		 <img width=600px  src="notesImages/other_git_type_hosts_image13.png" alt="other_git_type_hosts_image13"></a>
+	</p>
+	<p align="center">
+	  <a href="javascript:void(0)" rel="noopener">
 		 <img width=600px  src="notesImages/other_git_type_hosts_logo_image14.png" alt="other_git_type_hosts_logo_image14"></a>
 	</p>
 * Public vs Private Repositories
@@ -203,10 +207,6 @@ by The Linux Foundation
 	* With a __private one__
 		* the owner restricts access to a named list of collaborators and only those people can actually use the repository and be able to update it
 		* This costs money though it's not expensive, and it's used by many organizations for proprietary code or for even open source code that they're not quite ready to open up yet
-			<p align="center">
-			  <a href="javascript:void(0)" rel="noopener">
-				 <img width=600px  src="notesImages/other_git_type_hosts_image13.png" alt="other_git_type_hosts_image13"></a>
-			</p>
 			<p align="center">
 			  <a href="javascript:void(0)" rel="noopener">
 				 <img width=600px  src="notesImages/public_vs_private_image15.png" alt="public_vs_private_image15"></a>
